@@ -62,11 +62,10 @@ pip install gymnasium
 <br>
 
 
-## SAC Test(Humanoid)
-- tianshou benchmark (buffersize 915000, return 5341)
+## SAC Test(Humanoid) Episode 4141 / score 38796
+- tianshou benchmark (buffersize 4141, return 5341)
 - [tianshou benchmark](https://tianshou.readthedocs.io/en/master/tutorials/benchmark.html#mujoco-benchmark)
-
-<img src="https://github.com/seohyunjun/RL_SAC/blob/main/data/SAC_38796.gif" width="75%" height="75%" >
+<img src="https://github.com/seohyunjun/RL_SAC/blob/main/data/SAC_38796.gif" width="50%" height="50%" >
 
 <img src="https://github.com/seohyunjun/RL_SAC/blob/main/ppt/slide1.jpeg" height=80% width=80% >
 <img src="https://github.com/seohyunjun/RL_SAC/blob/main/ppt/slide2.jpeg" height=80% width=80% >
